@@ -7,9 +7,9 @@ This project is connected to the Convex deployment named [`grateful-ermine-331`]
   
 ## Project structure
   
-The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
+The frontend code is in the `app` directory and is built with HTML, Css, & J.S, Node J.S.
   
-The backend code is in the `convex` directory.
+The backend code is in the `convex` and Python directory.
   
 `npm run dev` will start the frontend and backend servers.
 
